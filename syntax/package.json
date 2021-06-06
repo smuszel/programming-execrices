@@ -1,0 +1,12 @@
+{
+  "name": "syntax",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve -p 3002 -o"
+  },
+  "devDependencies": {
+    "serve": "11.3.2"
+  },
+  "author": "smuszel",
+  "license": "ISC"
+}
