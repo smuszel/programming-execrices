@@ -1,5 +1,5 @@
 import * as React from 'react';
-import IncButton from './Buttons/RefactorMe';
+import IncButton from './Buttons/BasicButton';
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default () => {

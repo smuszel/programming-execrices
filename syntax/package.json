@@ -5,7 +5,8 @@
     "start": "serve -p 3002 -o"
   },
   "devDependencies": {
-    "serve": "11.3.2"
+    "serve": "11.3.2",
+    "lodash": "3.8.0"
   },
   "author": "smuszel",
   "license": "ISC"
